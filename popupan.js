@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://kienthucsum.com/';
+	var url_popup = 'https://www.facebook.com/choxuanmaichuongmy';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
